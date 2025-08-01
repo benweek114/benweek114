@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.deviantart.com/tag/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.usmagazine.com/search-results/%3F_s%3D</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
         <loc>https://www.tellychakkar.com/tags/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://akhbarak.net/search%3Fsearch_input%3D</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -26,7 +11,22 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.wolframalpha.com/</loc>
+        <loc>https://emprego.sapo.pt/offers%3Fpesquisa%3D</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.sweetsuccess.uk.com/catalogsearch/result/%3Fq%3D</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://store.google.com/es/search%3Fq%3D</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.thesaurus.com/browse/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
