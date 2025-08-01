@@ -6,7 +6,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.usmagazine.com/search-results/?_s=</loc>
+        <loc>https://www.usmagazine.com/search-results/%3F_s%3D</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -16,7 +16,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://akhbarak.net/search?search_input=</loc>
+        <loc>https://akhbarak.net/search%3Fsearch_input%3D</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
